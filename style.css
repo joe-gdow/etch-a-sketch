@@ -1,0 +1,16 @@
+body {
+    justify-content: center;
+    background-color: violet;
+    margin: 0 100px;
+}
+
+.container {
+    display: flex;
+}
+
+.square {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+}
